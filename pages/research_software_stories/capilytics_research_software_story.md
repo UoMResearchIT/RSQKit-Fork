@@ -50,7 +50,7 @@ The collaboration between the researcher and RSEs was particularly important bec
 
 ## Tools
 
-Visual Studio Code was generally used as the development environment. GitHub provides version control, code review, testing workflows and issue management, while GitHub Projects is used where required to manage issues and bugs.
+Visual Studio Code was generally used as the development environment. GitHub provides version control, code review, testing workflows and issue management, while GitHub Projects is used to manage adding new features, dealing with issues and fixing bugs.
 
 Clinical data management is handled by the project managers and clinical trial leads. They developed a form of quality management system (QMS) for this purpose. At the current clinical trial stage, integration with NHS systems has not been necessary. The local databases associated with the desktop application and the main database on the University of Manchester virtual machine have been sufficient for the software's data-management requirements.
 
